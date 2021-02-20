@@ -1,2 +1,3 @@
-# reverse
-C++ exercise: reverse a string
+# Reverse
+
+Here is your first exercise: write a function in C++ that reverses a string.
